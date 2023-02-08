@@ -13,7 +13,6 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 from pathlib import Path
 from typing import Any
 
-# from .base import *
 
 from envparse import env
 
